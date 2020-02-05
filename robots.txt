@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohpioyaem.flexxse.al/sitemap.xml
